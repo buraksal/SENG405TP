@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SENG405TP</string>
+    <string name="searchBtn">Search Movıe</string>
+    <string name="favBtn">Favourıte Movıes</string>
+    <string name="search">Search</string>
+    <string name="addToFav">+</string>
+    <string name="removeFromFav">-</string>
+    <string name="inputAreaPlaceHolder">Enter Movie Title</string>
+    <string name="searchFragment">Hello Search fragment</string>
+    <string name="favouriteFragment">Hello Favourite fragment</string>
+</resources>
